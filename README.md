@@ -66,6 +66,11 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## Swagger API Doc 
+```bash
+# Follow the link on browser to test the api  
+$ http://localhost:3300/api
+```
 
 ## Test
 
@@ -86,9 +91,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Sourabh Sovitkar]
 
 ## License
 
