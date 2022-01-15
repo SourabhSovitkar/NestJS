@@ -41,6 +41,18 @@ $ npm i -g @nestjs/cli
 ```bash
 $ npm install
 ```
+## Dependency of the app
+```bash
+# NestJS
+# MySQL
+# env variables 
+$ PORT
+$ JWT_SECRET
+$ DATABASE_HOST
+$ DATABASE_USER
+$ DATABASE_PASSWORD
+$ DATABASE_NAME
+```
 
 ## Running the app
 
